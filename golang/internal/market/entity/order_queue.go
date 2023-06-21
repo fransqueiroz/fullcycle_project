@@ -31,5 +31,3 @@ func (oq *OrderQueue) Pop() interface{} {
 func NewOrderQueue() *OrderQueue {
 	return &OrderQueue{}
 }
-
-//1:24:20
